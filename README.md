@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/azdevtestacc/Pipeline_test/_apis/build/status/azdevtestacc.pipelines-java?branchName=master)](https://dev.azure.com/azdevtestacc/Pipeline_test/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
